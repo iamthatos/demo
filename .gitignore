@@ -22,3 +22,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+demoui/node/*
+*.exe
+src/main/demoui/node/
