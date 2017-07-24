@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "../target/demoui",
+      "outDir": "../src/main/webapp",
       "assets": [
         "assets",
         "favicon.ico"
